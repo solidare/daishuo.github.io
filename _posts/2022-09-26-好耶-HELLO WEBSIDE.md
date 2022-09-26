@@ -1,5 +1,5 @@
 ---
-title: 2022-09-26-好耶-HELLO WEBSIDE
+title: 2022-09-26-好耶-HELLO WEBLOG.md
 category: /小书匠/日记/2022-09
 grammar_cjkRuby: true
 ---
